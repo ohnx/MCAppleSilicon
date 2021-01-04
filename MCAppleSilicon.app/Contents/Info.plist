@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>launch.sh</string>
+	<key>CFBundleIdentifier</key>
+	<string>ca.masonx.mcas</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon</string>
+	<key>CFBundleName</key>
+	<string>Minecraft on Apple Silicon Launcher</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>795</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSHighResolutionCapable</key>
+	<string>YES</string>
+	<key>NSQuitAlwaysKeepsWindows</key>
+	<false/>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<string>NO</string>
+</dict>
+</plist>
